@@ -1,0 +1,17 @@
+.background-image{
+    background: url('./assets/background-main.png');
+    background-size: cover;
+    background-blend-mode: multiply;
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+.my-height{
+    height: 100vh!important;
+}
+
+.logo-img{
+    height: 56px;
+    width: 110px;
+    color: white;
+    overflow: visible;
+}

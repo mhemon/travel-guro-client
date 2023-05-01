@@ -1,0 +1,15 @@
+.border-box {
+    width: 470px;
+    padding: 24px;
+    border-radius: 5px;
+    background: white;
+}
+
+.input-background {
+    background: #F2F2F2;
+    border-radius: 5px;
+}
+
+.cursor-pointer{
+    cursor: pointer;
+}

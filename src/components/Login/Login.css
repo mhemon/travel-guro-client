@@ -1,0 +1,14 @@
+.login-box {
+    margin-top: 50px;
+    width: 500px;
+    padding: 20px;
+    border: 1px solid #ABABAB;
+    border-radius: 4px;
+}
+
+@media screen and (max-width: 576px) {
+    .login-box {
+        width: 100%;
+        margin: 15px;
+    }
+}

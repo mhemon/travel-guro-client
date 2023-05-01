@@ -1,0 +1,12 @@
+
+.my-margin{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+/* large devices */
+@media screen and (min-width: 768px){
+    .my-margin{
+        margin-top: 120px!important;
+    }
+}
